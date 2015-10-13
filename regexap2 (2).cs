@@ -46,7 +46,7 @@ namespace regexap1
 
                     if (regex.Match(email).Success)
                     {
-                        string newEmail = email.ToLower().Replace("ç", "c").Replace("ş", "s").Replace("ı", "i").Replace("ü", "u").Replace("AKMETAKINGS@GMAİL.COM", "akmetakings@gmail.com");
+                        string newEmail = email.ToLower().Replace("ç", "c").Replace("ş", "s").Replace("ı", "i").Replace("ü", "u");
                         emailList.Add(newEmail);
                         Console.WriteLine(newEmail);
                     }
