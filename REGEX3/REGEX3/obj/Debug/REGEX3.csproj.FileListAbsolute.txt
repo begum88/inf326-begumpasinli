@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\REGEX3\REGEX3\bin\Debug\REGEX3.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\REGEX3\REGEX3\bin\Debug\REGEX3.exe
+c:\users\asus\documents\visual studio 2013\Projects\REGEX3\REGEX3\bin\Debug\REGEX3.pdb
+c:\users\asus\documents\visual studio 2013\Projects\REGEX3\REGEX3\obj\Debug\REGEX3.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\REGEX3\REGEX3\obj\Debug\REGEX3.exe
+c:\users\asus\documents\visual studio 2013\Projects\REGEX3\REGEX3\obj\Debug\REGEX3.pdb
